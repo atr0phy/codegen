@@ -1,0 +1,24 @@
+<project version="4">
+  <component name="KotlinPluginsSettings">
+    <option name="repositories">
+      <map>
+        <entry key="uuidv7-local-0.1.1" value="$PROJECT_DIR$/.kefs/repository;PATH" />
+      </map>
+    </option>
+    <option name="plugins">
+      <map>
+        <entry key="uuidv7-id-0.1.1" value="EXACT;true;false;dev.uuidv7id:compiler-plugin" />
+      </map>
+    </option>
+    <option name="pluginsRepos">
+      <map>
+        <entry key="uuidv7-id-0.1.1" value="uuidv7-local-0.1.1" />
+      </map>
+    </option>
+    <option name="pluginsReplacements">
+      <map>
+        <entry key="uuidv7-id-0.1.1" value="&lt;kotlin-version&gt;-&lt;lib-version&gt;;&lt;artifact-id&gt;;&lt;artifact-id&gt;" />
+      </map>
+    </option>
+  </component>
+</project>
